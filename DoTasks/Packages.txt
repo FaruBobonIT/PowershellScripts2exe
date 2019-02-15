@@ -1,0 +1,3 @@
+﻿Load the System.Management.Automation.dll for windows 10
+https://www.nuget.org/packages/System.Management.Automation.dll/
+Install-Package System.Management.Automation.dll -Version 10.0.10586
